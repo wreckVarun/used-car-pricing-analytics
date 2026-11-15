@@ -1,0 +1,6 @@
+step,rows_before,rows_removed,rows_after,reason
+load raw csv,15411,0,15411,14 columns in the file
+fix model names,15411,0,15411,"1299 rows renamed, e.g. 'Grand' -> 'Grand i10'"
+drop missing values,15411,2,15409,missing or impossible values: seats=2
+drop duplicates,15409,167,15242,identical rows listed more than once
+drop km outliers,15242,12,15230,"km_driven above 500,000"
