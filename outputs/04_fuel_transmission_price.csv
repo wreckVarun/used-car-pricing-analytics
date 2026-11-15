@@ -1,0 +1,7 @@
+fuel_type,transmission_type,listings,median_price,median_age_years
+CNG,Manual,299,370000.0,5.0
+Diesel,Automatic,1616,1650000.0,6.0
+Diesel,Manual,5716,620000.0,6.0
+LPG,Manual,44,182500.0,11.0
+Petrol,Automatic,1527,670000.0,4.0
+Petrol,Manual,6024,420000.0,5.0
