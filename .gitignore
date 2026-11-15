@@ -1,0 +1,12 @@
+# downloaded and generated data (recreated by run_all.py)
+data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
